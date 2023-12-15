@@ -15,5 +15,7 @@ Modify the loaded locations using the `locNames`, `locLats` and `locLongs` array
 
 The sketch was developed with PlatformIO. Building with PlatoformIO will allow dependancies to automatically be downloaded.
 
+A video of the working device can be seen here: https://youtu.be/bcLq2DPabHc
+
 To run, the arduino should be wired as shown:
 ![circuit diagram](./WeatherDisplay.png)
